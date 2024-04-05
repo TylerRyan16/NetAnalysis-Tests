@@ -1,9 +1,7 @@
 NET ANALYSIS TEST FILES:
 # INSTALLATION
 ## 1. Download all files
-   <img src = "(https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/5806b604-70fa-49e7-b93f-bba53b5cc7cc" width = "800" height = "500">
-
-
+   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/70020bc7-4c30-44c5-b78c-623f905d4829" width = "800" height = "500">
 
 
 
