@@ -10,8 +10,8 @@ NET ANALYSIS TEST FILES:
 
 ## 3. Copy file paths into NetAnalysisTests.java
    <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/01747b7a-faba-4795-a175-1f85f387a81e" width = "600" height = "750">
-   
-   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/261ba737-14b2-4ace-a8bb-2a511294c7d4" width = "600" height = "750">
+
+   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/cebb8158-02fb-449f-a6f0-7d4f9b0af3e6">
 
 
 
