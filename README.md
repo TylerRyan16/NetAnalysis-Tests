@@ -1,7 +1,9 @@
 NET ANALYSIS TEST FILES:
 # INSTALLATION
 ## 1. Download all files
-   <img src="https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/271bc944-b1f3-4343-acdb-bc3e3a4ff1da" width="800" height="500">
+   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/1c694a22-207b-45fa-8743-08fdf3324852" width = "800" height = "500">
+
+
 
 3. Import all files into your project (anywhere, it doesnt matter)
 4. Copy file path of your .txt files
