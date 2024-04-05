@@ -5,6 +5,8 @@ NET ANALYSIS TEST FILES:
 
 
 
+## 2. Import files into your project 
+![image](https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/22a4e7be-38c2-499e-a653-7585c6c6334c)
 
 3. Import all files into your project (anywhere, it doesnt matter)
 4. Copy file path of your .txt files
