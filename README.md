@@ -8,25 +8,13 @@ NET ANALYSIS TEST FILES:
 ## 2. Import files into your project 
    <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/cdc03619-3dd0-4fcf-9508-f93dc4e46966" width = "600" height = "750">
 
-## 3. Copy file paths into NetAnalysisTests.java
+## 3. Copy .txt file paths
   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/01747b7a-faba-4795-a175-1f85f387a81e">
 
+## 4. Paste file path into NetAnalysisTests.java
    <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/cebb8158-02fb-449f-a6f0-7d4f9b0af3e6">
 
-
+## 5. Repeat steps 3-4 for all text files
 5. Replace the paths at the top of NetAnalysisTests.java with your own paths
 
-   EXAMPLE FINAL TEST FILE:
-
-      private static final String DATA_FILE = "YOUR test_data.txt LOCATION";  <---- REPLACE WITH PATH TO test_data.txt
-  
-      private static final String COPPER_ONLY_FILE = "YOUR copper_only_data.txt LOCATION"; <---- REPLACE WITH PATH TO copper_only_data.txt
-
-      private static final String STRONG_FILE = "YOUR strong_data.txt LOCATION"; <---- REPLACE WITH PATH TO strong_data.txt
-      
-      private static final String SMALL_FILE = "YOUR small_data.txt LOCATION"; <----- REPLACE WITH PATH TO small_data.txt
-
-      private static final String UNCONNECTED_FILE = "YOUR unconnected_data.txt LOCATION <---- REPLACE WITH PATH TO unconnected_data.txt
-
-
-HAPPY TESTING :3
+# * HAPPY TESTING :3 * 
