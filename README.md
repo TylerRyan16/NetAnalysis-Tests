@@ -6,7 +6,7 @@ NET ANALYSIS TEST FILES:
 
 
 ## 2. Import files into your project 
-   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/cdc03619-3dd0-4fcf-9508-f93dc4e46966" width = "650" height = "750">
+   <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/cdc03619-3dd0-4fcf-9508-f93dc4e46966" width = "600" height = "750">
 
 3. Import all files into your project (anywhere, it doesnt matter)
 4. Copy file path of your .txt files
