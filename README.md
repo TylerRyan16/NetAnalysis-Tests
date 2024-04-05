@@ -1,4 +1,10 @@
-NET ANALYSIS TEST FILES:
+# Description
+This is a test file for Dr. Farnan's Project 4 (Graphs). It is more robust than the tests provided and aims to help every user get the best grade possible on the project. There are 5 files:
+NetAnalysisTests.java <-- main file
+test_data.txt <-- main data input file
+
+---
+
 # INSTALLATION
 ## 1. Download all files
    <img src = "https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/6ee8d876-824a-49c7-b9e8-62691b48c312" width = "800" height = "500">
