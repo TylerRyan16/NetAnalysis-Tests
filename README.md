@@ -34,8 +34,23 @@ There are 5 files:
 ---
 
 ## 5. Repeat steps 3-4 for all text files
-5. Replace the paths at the top of NetAnalysisTests.java with your own paths
 
 ---
+
+
+# HOW TO RUN FILE
+## 1. Download Microsoft Extension Pack extension into your codespace
+![image](https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/7b696ecb-1a2c-4f67-9aff-368908286a8a)
+
+---
+
+## 2. Refresh your codespace
+
+--- 
+
+## 3. Click "Run" above the main method
+![image](https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/6ebf6170-68dc-46d3-94fc-ef845d0061f6)
+
+
 
 # * HAPPY TESTING :3 * 
