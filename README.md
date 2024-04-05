@@ -1,5 +1,6 @@
 # Description
-This is a test file for Dr. Farnan's Project 4 (Graphs). It is more robust than the tests provided and aims to help every user get the best grade possible on the project. There are 5 files:
+This is a test file for Dr. Farnan's Project 4 (Graphs). It is more robust than the tests provided and aims to help every user get the best grade possible on the project. 
+\n There are 5 files:
 NetAnalysisTests.java <-- main file
 test_data.txt <-- main data input file
 
