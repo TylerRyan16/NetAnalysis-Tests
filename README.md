@@ -1,8 +1,13 @@
 # Description
 This is a test file for Dr. Farnan's Project 4 (Graphs). It is more robust than the tests provided and aims to help every user get the best grade possible on the project. 
-\n There are 5 files:
-NetAnalysisTests.java <-- main file
-test_data.txt <-- main data input file
+
+There are 5 files:
+- NetAnalysisTests.java  <-- main file
+- test_data.txt          <-- main data input file
+- copper_only_data.tx    <-- data file with copper only connections
+- strong_data.txt        <-- data file that survives 2 failed vertexes
+- small_data.txt         <-- data file with 2 vertexes, 1 edge
+- unconnected_data.txt   <-- data file with graph that has unconnected sections
 
 ---
 
