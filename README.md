@@ -1,6 +1,7 @@
 NET ANALYSIS TEST FILES:
 1. Download all files
-   
+   ![image](https://github.com/TylerRyan16/NetAnalysis-Tests/assets/92388210/271bc944-b1f3-4343-acdb-bc3e3a4ff1da)
+
 3. Import all files into your project (anywhere, it doesnt matter)
 4. Copy file path of your .txt files
 5. Replace the paths at the top of NetAnalysisTests.java with your own paths
