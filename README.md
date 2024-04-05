@@ -1,8 +1,9 @@
 NET ANALYSIS TEST FILES:
 1. Download all files
-2. Import all files into your project (anywhere, it doesnt matter)
-3. Copy file path of your .txt files
-4. Replace the paths at the top of NetAnalysisTests.java with your own paths
+   
+3. Import all files into your project (anywhere, it doesnt matter)
+4. Copy file path of your .txt files
+5. Replace the paths at the top of NetAnalysisTests.java with your own paths
 
    EXAMPLE FINAL TEST FILE:
 
